@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Encapsulation
 {
+    // Bu uygulamada kapı sayısı özelliği üzerinden nesne yöenelimli programlamadaki kapsülleme özelliğini anlatmaya çalıştım.
     public class Araba
     {
         // Özellikler (Properties)
